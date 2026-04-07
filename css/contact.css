@@ -424,6 +424,18 @@
   z-index: 1;
 }
 
+.coverage-copy .label {
+  color: #f0b400;
+}
+
+.coverage-inner-heading {
+  margin: 8px 0 16px;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
 .coverage-copy p,
 .coverage-points li {
   color: rgba(255, 255, 255, 0.82);
@@ -480,6 +492,20 @@
   border: 0;
   display: block;
   filter: grayscale(1) contrast(1.05) brightness(0.9);
+}
+
+.map-coverage-circle {
+  position: absolute;
+  /* Dublin sits roughly 60% across and 45% down at this zoom/center */
+  left: 60%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+  width: 54%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 2px dashed rgba(212, 175, 55, 0.6);
+  pointer-events: none;
+  z-index: 2;
 }
 
 .coverage-badge {

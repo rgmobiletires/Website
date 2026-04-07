@@ -152,11 +152,6 @@
     </div>
 
     <div class="footer-col">
-      <h5>More Services</h5>
-      ${renderFooterLinks(columns.commercial || [])}
-    </div>
-
-    <div class="footer-col">
       <h5>Company</h5>
       ${renderFooterLinks(columns.company || [])}
     </div>

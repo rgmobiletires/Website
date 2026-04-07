@@ -742,7 +742,7 @@ section { padding: 100px 0; }
   margin: 0 auto;
   padding: 0 48px 72px;
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr 1fr 1.6fr;
+  grid-template-columns: 2fr 1fr 1fr 1.6fr;
   gap: 56px;
   border-bottom: 1px solid var(--border);
 }
@@ -754,18 +754,22 @@ section { padding: 100px 0; }
   margin-bottom: 20px;
 }
 
+.footer__logo {
+  display: block;
+}
+
 .footer__logo-img {
   height: 30px;
   width: auto;
   object-fit: contain;
   display: block;
-  margin-bottom: 1rem;
 }
 
 .footer-brand-desc {
   font-size: 0.84rem;
   line-height: 1.75;
   color: var(--text-muted);
+  margin-top: 12px;
   margin-bottom: 28px;
   max-width: 270px;
 }

@@ -40,10 +40,11 @@ window.SITE_CONFIG = {
     },
     columns: {
       vehicleServices: [
-        { label: "Tyre & Brake Repairs", href: "index.html#services" },
-        { label: "General Vehicle Servicing", href: "index.html#services" },
-        { label: "Clutch Repairs", href: "index.html#services" },
-        { label: "Suspension Repairs", href: "index.html#services" }
+        { label: "Tyre Repair", href: "index.html#services" },
+        { label: "Tyre Replacement", href: "index.html#services" },
+        { label: "Emergency Tyre Service", href: "index.html#services" },
+        { label: "Part Worn Tyres", href: "index.html#services" },
+        { label: "Mobile Tyre Fitting", href: "index.html#services" }
       ],
       commercial: [
         { label: "Puncture Repair", href: "index.html#services" },

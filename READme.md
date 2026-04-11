@@ -117,3 +117,40 @@ Vercel automatically detects the push and deploys within seconds.
 
 **Neex Creative** — Graphic, Motion & Web Design Studio, Dublin  
 info@neexcreative.com
+
+
+## access
+
+**RG Mobile Tyres — Access & Subscription Record**
+1. Gmail
+
+Platform: Gmail
+Login: rgmobiletires@gmail.com
+Password: michelin1980
+
+2. GitHub
+
+Platform: GitHub
+Login:
+Password:
+
+3. Vercel
+
+Platform: Vercel
+Login:
+Password:
+
+4. Blacknight
+
+Platform: Blacknight
+Login:
+Password:
+Domain Subscription
+
+Domain: rgmobiletyres.ie
+Provider: Blacknight
+Registration Date:
+Renewal Date:Sunday, April 11th, 2027
+Auto-Renew:
+Billing Email:
+Payment Method:

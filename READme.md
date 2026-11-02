@@ -131,20 +131,19 @@ Password: michelin1980
 2. GitHub
 
 Platform: GitHub
-Login:
-Password:
+Login: rgmobiletires
+Password: Rambomichelin1980
 
 3. Vercel
 
 Platform: Vercel
-Login:
-Password:
+GITHUB CONNECTION
 
 4. Blacknight
 
 Platform: Blacknight
-Login:
-Password:
+Login:[rgmobiletires@gmail.com](mailto:rgmobiletires@gmail.com) 
+Password: Rambomichelin1980!
 Domain Subscription
 
 Domain: rgmobiletyres.ie
